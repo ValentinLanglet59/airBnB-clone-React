@@ -1,0 +1,20 @@
+.header--background {
+  height: 80px;
+  background-color: #F55A5A;
+}
+
+.header--flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: inherit;
+}
+
+.header--flex > h3 {
+  color:white;
+}
+
+.fa-solid {
+  padding-right: 8px;
+  color:white;
+}
