@@ -8,6 +8,32 @@
 
 A little video of the airBnb Clone I made with React ! 
 
+
+<h2> What I learned</h2>
+
+
+* My first React-based project ! I learned (props)
+
+* The concept of components and reusability
+
+* JSX
+
+* The create-react-app
+
+* Mapping() over datas(fake database) and display them on the website
+
+
+<h2> Problems encountered </h2>
+
+* It was complicated to take the habit of separating components in different files and having to display them on the same page!
+
+Little side note : React looks really fun !
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+
  Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
