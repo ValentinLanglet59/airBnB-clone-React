@@ -1,4 +1,4 @@
-<h1> AirBnB Clone </h1>
+<h1> My Travel Diary ! </h1>
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -6,7 +6,7 @@
 <img width="1438" alt="React airbnb" src="https://user-images.githubusercontent.com/102190834/174456954-09f18a57-4700-4248-aa25-9233a530eba4.png">
 
 
-A little video of the airBnb Clone I made with React ! 
+A little image of my diary I made with React ! 
 
 
 <h2> What I learned</h2>
